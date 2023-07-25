@@ -108,7 +108,7 @@ Under both **MakeItTalk_Linux** and **MakeItTalk_Windows**, requirements.txt fil
 Type the command below in the terminal or Anaconda prompt to install the python packages in the requirements.txt file.
 
 ~~~
-pip install –r requirements.txt
+pip install -r requirements.txt
 ~~~
 
 #### 7. Download Weighting of Pre-trained Models
