@@ -11,7 +11,7 @@
 | Environment Manager  | Conda (Anaconda or Miniconda)                           | [https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html](https://docs.conda.io/projects/conda/en/stable/user-guide/install/index.html) |
 
 ### <center><span style="color: red;">⚠️WARNING⚠️</span></center>
-<center><span style="color: red;">As there are many large files needed to use in order to start this tutorial, please prepare up to **6GB** free space in your computer before starting.</span></center>
+<center><span style="color: red;">As there are many large files needed to use in order to start this tutorial, please prepare up to 6 GB of free space in your computer before starting.</span></center>
 
 ## MakeItTalk Practical Guide: How to Make Your First Talking Face
 
