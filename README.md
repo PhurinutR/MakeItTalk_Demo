@@ -100,7 +100,7 @@ Next, through the terminal or Anaconda prompt opened earlier, navigate yourself 
 cd [path to your working directory]/[replace this with MakeItTalk_Linux or MakeItTalk_Windows]
 ~~~
 
-Under both **MakeItTalk_Linux** or **MakeItTalk_Windows**, requirements.txt file is provided to help you install the packages that you need.
+Under both **MakeItTalk_Linux** and **MakeItTalk_Windows**, requirements.txt file is provided to help you install the packages that you need.
 
 <img width="432" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/9d31a2d9-6401-41c9-ae67-2e2af23b88a1">
 
@@ -132,7 +132,7 @@ In the same manner, download the five files below to **MakeItTalk_Linux/checkpoi
 
 ### Animate Your Photo
 
-Now, everything has been setup and ready to use. As mentioned earlier that you will interact with MakeItTalk via GUI, thus this GUI has been created and provided under both **MakeItTalk_Linux** or **MakeItTalk_Windows**. To start using it, type command below in your terminal or Anaconda prompt.
+Now, everything has been setup and ready to use. As mentioned earlier that you will interact with MakeItTalk via GUI, thus this GUI has been created and provided under both **MakeItTalk_Linux** and **MakeItTalk_Windows**. To start using it, type command below in your terminal or Anaconda prompt.
 
 ~~~
 python GUI.py
