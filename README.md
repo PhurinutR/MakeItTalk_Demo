@@ -32,7 +32,7 @@ Throughout this practical guide section, you will learn how to turn a picture of
 Create a dedicated conda environment with a desired name (e.g: makeittalk_env) and python 3.6 installation by typing the follow in the Terminal.
 
 ~~~
-conda create -n makeittalk\_env python=3.6
+conda create -n makeittalk_env python=3.6
 ~~~
 
 **For Windows users**
