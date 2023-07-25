@@ -151,5 +151,3 @@ While the program is calculating, the loading bar will show up and, on the termi
 <img width="451" alt="image" src="https://github.com/PhurinutR/MakeItTalk_Demo/assets/106614460/4a0721e0-7e82-435a-9c03-d055b177520a">
 
 You could try MakeItTalk with other faces or other sounds by simply clicking other face or audio and clicking “Make It Talk!!” button again. After several tries, one important thing that you can notice from the result video is that the motion of the speaker in the result doesn’t appear only on his or her mouth but the entire face like face turning, eyes blinking, head nodding and other facial expressions are all there to fulfill realism to the generated talking head.
-
-To crystalize the concept of how MakeItTalk turns the input static portrait and audio into speaker-aware talking head animation, in the next section, the mechanism behind MakeItTalk will be explained along with some demonstrations to illustrate what is generated inside in each process.
